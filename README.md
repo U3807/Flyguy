@@ -46,3 +46,4 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 *
 ## Combine
 We combine the above models in one project, users can download the source code in ```Himax\combine```.
+In this case, user can inference two models on WE-I development board without programming two differnt image files in.
