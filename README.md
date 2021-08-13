@@ -7,7 +7,7 @@ To enable common features such as hovering, landing, emergency shut down, we wil
 We leverage this exceptional advantages to implement an intelligent UAV, which can be used to perform gestures classification and person detection. Once detect the gestures, the corresponding command is send to main controller and modify UAV attitude. Likewise, if the person is being detected, image of he/she will be transmitted to PC by radio links.   
 
 ## Demo Video
-* <https://youtu.be/GtNfwzQPovE>
+* <https://www.youtube.com/watch?v=DwNShWadWos>
 ## System Architecture
 ![image](https://github.com/U3807/Flyguy/blob/main/Pics/Drone_architecture.PNG) 
 ## CNN Model Training Flowchart
