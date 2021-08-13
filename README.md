@@ -9,7 +9,7 @@ We leverage this exceptional advantages to implement an intelligent UAV, which c
 ## Demo Video
 * <https://www.youtube.com/watch?v=DwNShWadWos>
 ## System Architecture
-![image](https://github.com/U3807/Flyguy/blob/main/Pics/Drone_architecture.PNG) 
+![image](https://github.com/U3807/Flyguy/blob/main/Pics/System_architecture.PNG) 
 ## CNN Model Training Flowchart
 ![image](https://github.com/U3807/FLyguy/blob/main/Pics/train_cnn.png) 
 ## Required Hardware
